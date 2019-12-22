@@ -1,0 +1,22 @@
+
+TA: Kelley
+
+ERRORS
+corpus:0
+text:1
+
+CODE QUALITY
+corpus:4
+text: 4
+
+TAGGER
+runs: 3
+code: 2
+accuracy: .97/.81
+ 
+extra:0
+pep8: ~100/11
+
+comments:good job
+
+		
